@@ -12,3 +12,5 @@ elif bmi < 18.25:
     print("underweight")
 elif 25 > bmi >= 18.5:    
     print("normal weight")
+
+    
