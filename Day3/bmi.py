@@ -11,4 +11,16 @@ if bmi >= 25:
 elif bmi < 18.25:
     print("underweight")
 elif 25 > bmi >= 18.5:    
+<<<<<<< HEAD
     print("normal weight")
+
+    
+=======
+<<<<<<< HEAD
+    print("normal weight")
+
+    
+=======
+    print("normal weight")
+>>>>>>> 948c578 (day 3)
+>>>>>>> b0fb41c (added piza calculator)
